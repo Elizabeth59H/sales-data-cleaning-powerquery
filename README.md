@@ -1,7 +1,7 @@
 # ETL Básico con Power Query
 
 ## Descripción
-Proyecto ETL desarrollado utilizando Excel y Power Query.
+Proyecto ETL desarrollado utilizando Excel y Power Query..
 
 ## Objetivo
 Automatizar la extracción, transformación y carga de datos desde múltiples archivos CSV.
