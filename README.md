@@ -30,10 +30,10 @@ Carga automatizada hacia dashboard y tablas dinámicas.
 - Productos más vendidos
 
 ETL
-automatización
-análisis de datos
-documentación
-uso de GitHub
-Power Query  
+- automatización
+- análisis de datos
+- documentación
+- uso de GitHub
+- Power Query  
 
 ## Capturas
