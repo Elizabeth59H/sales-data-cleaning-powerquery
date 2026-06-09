@@ -4,7 +4,8 @@
 Proyecto ETL desarrollado utilizando Excel y Power Query..
 
 ## Objetivo
-Automatizar la extracción, transformación y carga de datos desde múltiples archivos CSV.
+Automatizar la extracción, transformación y carga de datos desde múltiples archivos CSV, 
+sirviuendo para mejorar la productividad de procesos.
 
 ## Herramientas utilizadas
 - Excel
