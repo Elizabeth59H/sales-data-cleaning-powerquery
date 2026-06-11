@@ -37,4 +37,13 @@ ETL
 - uso de GitHub
 - Power Query  
 
-## Capturas
+## 
+
+Crear estructura del proyecto
+
+PASO 1 — Crear carpeta en tu computadora
+
+Nombre:
+
+etl-powerquery-project
+
