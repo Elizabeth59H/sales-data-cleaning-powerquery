@@ -47,3 +47,20 @@ Nombre:
 
 etl-powerquery-project
 
+PASO 2 — Crear subcarpetas
+
+Dentro crea:
+
+Data
+Processed_Data
+Screenshots
+Documentation
+Estructura final
+etl-powerquery-project
+│
+├── Data
+├── Processed_Data
+├── Screenshots
+├── Documentation
+└── README.md
+
